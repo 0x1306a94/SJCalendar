@@ -29,9 +29,6 @@
 		D800614A1DE41ECD00D34A37 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D80061481DE41ECD00D34A37 /* LaunchScreen.storyboard */; };
 		D80061551DE41ECD00D34A37 /* SJCalendarDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D80061541DE41ECD00D34A37 /* SJCalendarDemoTests.m */; };
 		D800617F1DE41EF100D34A37 /* Aspects.m in Sources */ = {isa = PBXBuildFile; fileRef = D800615F1DE41EF100D34A37 /* Aspects.m */; };
-		D80061801DE41EF100D34A37 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = D80061601DE41EF100D34A37 /* LICENSE */; };
-		D80061811DE41EF100D34A37 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = D80061611DE41EF100D34A37 /* README.md */; };
-		D80061821DE41EF100D34A37 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = D80061631DE41EF100D34A37 /* LICENSE */; };
 		D80061831DE41EF100D34A37 /* MASCompositeConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = D80061661DE41EF100D34A37 /* MASCompositeConstraint.m */; };
 		D80061841DE41EF100D34A37 /* MASConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = D80061691DE41EF100D34A37 /* MASConstraint.m */; };
 		D80061851DE41EF100D34A37 /* MASConstraintMaker.m in Sources */ = {isa = PBXBuildFile; fileRef = D800616B1DE41EF100D34A37 /* MASConstraintMaker.m */; };
@@ -42,7 +39,6 @@
 		D800618A1DE41EF100D34A37 /* NSLayoutConstraint+MASDebugAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = D80061781DE41EF100D34A37 /* NSLayoutConstraint+MASDebugAdditions.m */; };
 		D800618B1DE41EF100D34A37 /* View+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = D800617A1DE41EF100D34A37 /* View+MASAdditions.m */; };
 		D800618C1DE41EF100D34A37 /* ViewController+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = D800617D1DE41EF100D34A37 /* ViewController+MASAdditions.m */; };
-		D800618D1DE41EF100D34A37 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = D800617E1DE41EF100D34A37 /* README.md */; };
 		D800618E1DE41FB100D34A37 /* SJCalendar.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D80061041DE41B9300D34A37 /* SJCalendar.framework */; };
 		D800618F1DE41FB100D34A37 /* SJCalendar.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = D80061041DE41B9300D34A37 /* SJCalendar.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
@@ -118,9 +114,6 @@
 		D80061561DE41ECD00D34A37 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D800615E1DE41EF100D34A37 /* Aspects.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Aspects.h; sourceTree = "<group>"; };
 		D800615F1DE41EF100D34A37 /* Aspects.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Aspects.m; sourceTree = "<group>"; };
-		D80061601DE41EF100D34A37 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		D80061611DE41EF100D34A37 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		D80061631DE41EF100D34A37 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		D80061651DE41EF100D34A37 /* MASCompositeConstraint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASCompositeConstraint.h; sourceTree = "<group>"; };
 		D80061661DE41EF100D34A37 /* MASCompositeConstraint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASCompositeConstraint.m; sourceTree = "<group>"; };
 		D80061671DE41EF100D34A37 /* MASConstraint+Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "MASConstraint+Private.h"; sourceTree = "<group>"; };
@@ -146,7 +139,6 @@
 		D800617B1DE41EF100D34A37 /* View+MASShorthandAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "View+MASShorthandAdditions.h"; sourceTree = "<group>"; };
 		D800617C1DE41EF100D34A37 /* ViewController+MASAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ViewController+MASAdditions.h"; sourceTree = "<group>"; };
 		D800617D1DE41EF100D34A37 /* ViewController+MASAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "ViewController+MASAdditions.m"; sourceTree = "<group>"; };
-		D800617E1DE41EF100D34A37 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -274,8 +266,6 @@
 			children = (
 				D800615E1DE41EF100D34A37 /* Aspects.h */,
 				D800615F1DE41EF100D34A37 /* Aspects.m */,
-				D80061601DE41EF100D34A37 /* LICENSE */,
-				D80061611DE41EF100D34A37 /* README.md */,
 			);
 			path = Aspects;
 			sourceTree = "<group>";
@@ -283,9 +273,7 @@
 		D80061621DE41EF100D34A37 /* Masonry */ = {
 			isa = PBXGroup;
 			children = (
-				D80061631DE41EF100D34A37 /* LICENSE */,
 				D80061641DE41EF100D34A37 /* Masonry */,
-				D800617E1DE41EF100D34A37 /* README.md */,
 			);
 			path = Masonry;
 			sourceTree = "<group>";
@@ -486,9 +474,7 @@
 			files = (
 				D800614A1DE41ECD00D34A37 /* LaunchScreen.storyboard in Resources */,
 				D80061471DE41ECD00D34A37 /* Assets.xcassets in Resources */,
-				D80061801DE41EF100D34A37 /* LICENSE in Resources */,
 				D80061451DE41ECD00D34A37 /* Main.storyboard in Resources */,
-				D80061821DE41EF100D34A37 /* LICENSE in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -531,9 +517,7 @@
 				D80061421DE41ECD00D34A37 /* ViewController.m in Sources */,
 				D80061881DE41EF100D34A37 /* MASViewConstraint.m in Sources */,
 				D800613F1DE41ECD00D34A37 /* AppDelegate.m in Sources */,
-				D80061811DE41EF100D34A37 /* README.md in Sources */,
 				D800613C1DE41ECD00D34A37 /* main.m in Sources */,
-				D800618D1DE41EF100D34A37 /* README.md in Sources */,
 				D800618B1DE41EF100D34A37 /* View+MASAdditions.m in Sources */,
 				D80061831DE41EF100D34A37 /* MASCompositeConstraint.m in Sources */,
 				D80061871DE41EF100D34A37 /* MASViewAttribute.m in Sources */,
@@ -821,6 +805,7 @@
 				D800611A1DE41B9300D34A37 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D800611B1DE41B9300D34A37 /* Build configuration list for PBXNativeTarget "SJCalendarTests" */ = {
 			isa = XCConfigurationList;
@@ -829,6 +814,7 @@
 				D800611D1DE41B9300D34A37 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D80061571DE41ECD00D34A37 /* Build configuration list for PBXNativeTarget "SJCalendarDemo" */ = {
 			isa = XCConfigurationList;
@@ -837,6 +823,7 @@
 				D80061591DE41ECD00D34A37 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D800615A1DE41ECD00D34A37 /* Build configuration list for PBXNativeTarget "SJCalendarDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -845,6 +832,7 @@
 				D800615C1DE41ECD00D34A37 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
